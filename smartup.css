@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: arial;
+    margin: 0;
+}
+.header{
+    padding: 60px;
+    text-align: center;
+    background-color: blue;
+    color: crimson;
+}
+.navbar{
+    display: flex;
+    background-color: crimson;
+}
+.navbar a{
+    color: cyan;
+    padding: 16px 20px;
+    text-decoration: none;
+    text-align: center;
+
+}
+.navbar{
+    background-color: darkgoldenrod;
+    color: darkorchid;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
